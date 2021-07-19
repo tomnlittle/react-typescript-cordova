@@ -3,7 +3,7 @@
 
 > Cordova Typescript React App
 
-A `simple` :zap: Typescript React App bundled with Cordova to allow you to easily build Apps for Browsers/Android and iOS devices with web development Tools that you know and love.
+A `simple` :zap: Typescript React App bundled with Cordova to allow you to easily build Apps for Browsers/Android and iOS devices with web development tools that you know and love.
 
 The package uses `create-react-app` and the default configurations that come with that. This should make it easy to upgrade to newer versions of react in the future.
 
@@ -74,4 +74,4 @@ npm start
 
 ## :memo: Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/leonard-henriquez/readme-boilerplate/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/tomnlittle/react-typescript-cordova/compare/).
