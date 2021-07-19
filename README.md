@@ -24,7 +24,7 @@ The package uses `create-react-app` and the default configurations that come wit
 ### 2. Use Cordova's Template Installer
 Install the template with the following command:
 ```sh
-cordova create hello com.example.hello HelloWorld --template @tomnlittle/cordova-react-typescript
+cordova create hello com.example.hello HelloWorld --template @tomnlittle/react-typescript-cordova
 ```
 
 ### 3. Install
