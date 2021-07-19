@@ -1,0 +1,14 @@
+{
+  "name": "@tomnlittle/react-typescript-cordova",
+  "displayName": "Typescript React Cordova App",
+  "version": "1.0.0",
+  "description": "Create React App meets Typescript and Cordova",
+  "author": "tomnlittle",
+  "main": "index.js",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template",
+    "typescript",
+    "react"
+  ]
+}
