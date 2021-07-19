@@ -31,6 +31,7 @@ cordova create hello com.example.hello HelloWorld --template @tomnlittle/react-t
 Once your template has been copied across, move into your new app's folder use `npm` to install all the dependencies.
 
 ```sh
+ch hello
 npm install
 ```
 
